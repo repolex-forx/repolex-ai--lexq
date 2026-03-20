@@ -502,6 +502,74 @@
         "blob/dcb7aa026284587db3d2a663a2e0fda5f5ac7b20.nq.gz",
         "blob/64083cc38a1eb5c5d22fffd944634962312cd493.nq.gz",
         "blob/ad16db65768c80f776b5ae21e28cb47c893d2333.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/dd88d3d5ac5ff31c90c918b3de888f01a3216913.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/dd88d3d5ac5ff31c90c918b3de888f01a3216913.nq.gz",
+      "repolex": "aggregate/repolex/dd88d3d5ac5ff31c90c918b3de888f01a3216913.nq.gz",
+      "dep": "dep/dd88d3d5ac5ff31c90c918b3de888f01a3216913.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "pyoxigraph",
+          "githubOrg": "oxigraph",
+          "githubRepo": "oxigraph"
+        },
+        {
+          "packageName": "pyld",
+          "githubOrg": "digitalbazaar",
+          "githubRepo": "pyld"
+        },
+        {
+          "packageName": "click",
+          "githubOrg": "pallets",
+          "githubRepo": "click"
+        },
+        {
+          "packageName": "tomli",
+          "githubOrg": "hukkin",
+          "githubRepo": "tomli"
+        },
+        {
+          "packageName": "tomli-w",
+          "githubOrg": "hukkin",
+          "githubRepo": "tomli-w"
+        },
+        {
+          "packageName": "rich",
+          "githubOrg": "willmcgugan",
+          "githubRepo": "rich"
+        },
+        {
+          "packageName": "tabulate",
+          "githubOrg": "astanin",
+          "githubRepo": "python-tabulate"
+        },
+        {
+          "packageName": "pyyaml",
+          "githubOrg": "yaml",
+          "githubRepo": "pyyaml"
+        },
+        {
+          "packageName": "pytest",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest"
+        },
+        {
+          "packageName": "pytest-asyncio",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest-asyncio"
+        },
+        {
+          "packageName": "ruff",
+          "githubOrg": "astral-sh",
+          "githubRepo": "ruff"
+        },
+        {
+          "packageName": "mypy",
+          "githubOrg": "python",
+          "githubRepo": "mypy"
+        }
       ]
     }
   ],
