@@ -36,6 +36,13 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 
 ```
 .
+├── aggregate
+│   ├── ast
+│   │   └── dd88d3d5ac5ff31c90c918b3de888f01a3216913.nq.gz
+│   ├── lsp
+│   │   └── dd88d3d5ac5ff31c90c918b3de888f01a3216913.nq.gz
+│   └── repolex
+│       └── dd88d3d5ac5ff31c90c918b3de888f01a3216913.nq.gz
 └── blob
     ├── 02dba9d84a525343e572c712eebe815e69ece9b1.nq.gz
     ├── 03d1322204f9b219002d7f57f5f6c7e8180fa1c7.nq.gz
@@ -233,12 +240,9 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
     ├── c7c08dee48dd6e98782693d9e721610c307f4377.nq.gz
     ├── c7f8cf2cee794f55bf60ce858f3014ec6f513b1b.nq.gz
     ├── c937f7be891fd6425f9544e47b76b71e022be26d.nq.gz
-    ├── ca7054f70d67f323c4109ae3fb59121614e6e020.nq.gz
-    ├── cc17a3563e81bf174d88a8f699fb53b1459149b9.nq.gz
-    ├── cd56b50aad3c80840c1d886cbe1e85e50140a2c3.nq.gz
-    └── cd9d2a9627a5381d2292937a91db072024bf0b01.nq.gz
+    └── ca7054f70d67f323c4109ae3fb59121614e6e020.nq.gz
 
-2 directories, 200 files
+6 directories, 200 files
 ```
 
 | Directory | What it contains |
@@ -258,4 +262,4 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 [repolex-ai/lexq](https://github.com/repolex-ai/lexq)
 
 ---
-*Parsed on 2026-03-20 by [repolex](https://repolex.ai)*
+*Parsed on 2026-03-21 by [repolex](https://repolex.ai)*
