@@ -512,87 +512,144 @@
       "dependencies": [
         {
           "packageName": "pyoxigraph",
-          "packageVersion": "0.5.6",
+          "ecosystem": "PYPI",
+          "version": "0.5.2",
           "githubOrg": "oxigraph",
           "githubRepo": "oxigraph",
-          "githubCommit": "45e892308368d8b2c271d06dc04de17dfb6de80f"
+          "githubCommit": "ebdcd00d516c692311c28685ae9933ede6ef68c3",
+          "githubTag": "v0.5.2",
+          "githubUrl": "https://github.com/oxigraph/oxigraph",
+          "source": "build_file:pyproject.toml"
         },
         {
           "packageName": "pyld",
-          "packageVersion": "2.0.4",
+          "ecosystem": "PYPI",
+          "version": "2.0.4",
           "githubOrg": "digitalbazaar",
           "githubRepo": "pyld",
-          "githubCommit": "2ada0161fa56e52e18efc44eab8ad4ad2f5220f0"
+          "githubCommit": "2ada0161fa56e52e18efc44eab8ad4ad2f5220f0",
+          "githubTag": "v2.0.4",
+          "githubUrl": "https://github.com/digitalbazaar/pyld",
+          "source": "build_file:pyproject.toml"
         },
         {
           "packageName": "click",
-          "packageVersion": "8.3.1",
+          "ecosystem": "PYPI",
+          "version": "8.1.0",
           "githubOrg": "pallets",
           "githubRepo": "click",
-          "githubCommit": "1d038f270701498433cb432f54db89f95f07a845"
+          "githubCommit": "e4aceee8d2bf7fe9461915b0a21c4359ddcb8dc2",
+          "githubTag": "8.1.0",
+          "githubUrl": "https://github.com/pallets/click",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "httpx",
+          "ecosystem": "PYPI",
+          "version": "0.27.0",
+          "githubOrg": "encode",
+          "githubRepo": "httpx",
+          "githubCommit": "326b9431c761e1ef1e00b9f760d1f654c8db48c6",
+          "githubTag": "0.27.0",
+          "githubUrl": "https://github.com/encode/httpx",
+          "source": "build_file:pyproject.toml"
         },
         {
           "packageName": "tomli",
-          "packageVersion": "2.4.0",
+          "ecosystem": "PYPI",
+          "version": "2.0.0",
           "githubOrg": "hukkin",
           "githubRepo": "tomli",
-          "githubCommit": "a678e6fdeffa89bd28e4ecc148b926a4e1bbbc7b"
+          "githubCommit": "97b61d5b09d9fe0b64ce4d78885d1e3f2692a0e9",
+          "githubTag": "2.0.0",
+          "githubUrl": "https://github.com/hukkin/tomli",
+          "source": "build_file:pyproject.toml"
         },
         {
           "packageName": "tomli-w",
-          "packageVersion": "1.2.0",
+          "ecosystem": "PYPI",
+          "version": "1.0.0",
           "githubOrg": "hukkin",
           "githubRepo": "tomli-w",
-          "githubCommit": "a8f80172ba16fe694e37f6e07e6352ecee384c58"
+          "githubCommit": "19099125f32e7c491603e393263754262b356956",
+          "githubTag": "1.0.0",
+          "githubUrl": "https://github.com/hukkin/tomli-w",
+          "source": "build_file:pyproject.toml"
         },
         {
           "packageName": "rich",
-          "packageVersion": "9.9.0",
-          "githubOrg": "willmcgugan",
+          "ecosystem": "PYPI",
+          "version": "13.0.0",
+          "githubOrg": "Textualize",
           "githubRepo": "rich",
-          "githubCommit": "3473658d13a4e88e1e58a7be116ae6975ca13cf6"
+          "githubCommit": "d14b304aa45bf0759729f4e066606065daa341c8",
+          "githubTag": "v13.0.0",
+          "githubUrl": "https://github.com/Textualize/rich",
+          "source": "build_file:pyproject.toml"
         },
         {
           "packageName": "tabulate",
-          "packageVersion": "0.9.0",
+          "ecosystem": "PYPI",
+          "version": "0.9.0",
           "githubOrg": "astanin",
           "githubRepo": "python-tabulate",
-          "githubCommit": "bf58e37e6b35e3cc9a0bd740f752abfd32b6e6f8"
+          "githubCommit": "bf58e37e6b35e3cc9a0bd740f752abfd32b6e6f8",
+          "githubTag": "v0.9.0",
+          "githubUrl": "https://github.com/astanin/python-tabulate",
+          "source": "build_file:pyproject.toml"
         },
         {
           "packageName": "pyyaml",
-          "packageVersion": "6.0.3",
+          "ecosystem": "PYPI",
+          "version": "6.0.0",
           "githubOrg": "yaml",
           "githubRepo": "pyyaml",
-          "githubCommit": "49790e73684bebad1df05ef8d828fa12f685bffb"
+          "githubUrl": "https://github.com/yaml/pyyaml",
+          "source": "build_file:pyproject.toml"
         },
         {
           "packageName": "pytest",
-          "packageVersion": "9.0.2",
+          "ecosystem": "PYPI",
+          "version": "8.0.0",
           "githubOrg": "pytest-dev",
           "githubRepo": "pytest",
-          "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2"
+          "githubCommit": "478f8233bca8147445f0c5129f04ada892cc6c91",
+          "githubTag": "8.0.0",
+          "githubUrl": "https://github.com/pytest-dev/pytest",
+          "source": "build_file:pyproject.toml"
         },
         {
           "packageName": "pytest-asyncio",
-          "packageVersion": "1.3.0",
+          "ecosystem": "PYPI",
+          "version": "0.23.0",
           "githubOrg": "pytest-dev",
           "githubRepo": "pytest-asyncio",
-          "githubCommit": "2e9695fcf8c5c514f30f57b7d14ab83846357b96"
+          "githubCommit": "0b34e8e55bfe7037515df95db5f8f5c180be6699",
+          "githubTag": "v0.23.0",
+          "githubUrl": "https://github.com/pytest-dev/pytest-asyncio",
+          "source": "build_file:pyproject.toml"
         },
         {
           "packageName": "ruff",
-          "packageVersion": "0.9.9",
+          "ecosystem": "PYPI",
+          "version": "0.6.0",
           "githubOrg": "astral-sh",
           "githubRepo": "ruff",
-          "githubCommit": "091d0af2ab026a08b82d4aa7d3ab6b1ca4db778c"
+          "githubCommit": "b9da31610a514ffa2100226a0515189a127e8cc2",
+          "githubTag": "0.6.0",
+          "githubUrl": "https://github.com/astral-sh/ruff",
+          "source": "build_file:pyproject.toml"
         },
         {
           "packageName": "mypy",
-          "packageVersion": "1.9.0",
+          "ecosystem": "PYPI",
+          "version": "1.11.0",
           "githubOrg": "python",
           "githubRepo": "mypy",
-          "githubCommit": "5ff46f8b3706d005fabab2227ec84476d605bfd4"
+          "githubCommit": "dbd5f5cdb62b4dcd1e498c3a91c204b812609fdf",
+          "githubTag": "v1.11.0",
+          "githubUrl": "https://github.com/python/mypy",
+          "source": "build_file:pyproject.toml"
         }
       ]
     }
